@@ -1,4 +1,4 @@
-### Olá mundo! Eu sou o João Staub 👋
+### Olá mundo! Eu sou o João Staub 🦄
 
 🎓 Técnico em Informática - IFPR
 <br>
