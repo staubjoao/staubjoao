@@ -3,8 +3,6 @@
 🎓 Técnico em Informática - IFPR
 <br>
 📚 Ciência da Computação - UEM
-<br>
-👨‍💻 Aprendendo mais JS para desenvolver em suas frameworks e bibliotecas
 
 <hr>
 
