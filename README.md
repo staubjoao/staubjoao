@@ -19,7 +19,6 @@
   <img align="center" alt="Jao-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
   <img align="center" alt="Jao-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Jao-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg">
-  <img align="center" alt="Jao-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Jao-Postq" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
 </div>
   
