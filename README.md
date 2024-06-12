@@ -2,7 +2,7 @@
 
 🎓 Técnico em Informática - IFPR
 <br>
-📚 Ciência da Computação - UEM
+🎓 Ciência da Computação - UEM
 
 <hr>
 
