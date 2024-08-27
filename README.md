@@ -3,6 +3,8 @@
 🎓 Técnico em Informática - IFPR
 <br>
 🎓 Ciência da Computação - UEM
+<br>
+📚 Mestrado em Ciência da Computação - UEM
 
 <hr>
 <div>
