@@ -1,4 +1,4 @@
-### Hoello word! I'm João Staub 🦄
+### Hello word! I'm João Staub 🦄
 
 🎓 Computer Science - UEM
 <br>
